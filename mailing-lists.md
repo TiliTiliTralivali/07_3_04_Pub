@@ -22,7 +22,7 @@ initial places to look.
 *   [testing](https://groups.google.com/a/tensorflow.org/d/forum/testing) -
     Discussion and questions on TensorFlow 2 testing.
 
-## Project-specific lists
+## project-specific lists
 
 These projects inside the TensorFlow GitHub organization have lists dedicated to their communities:
 
