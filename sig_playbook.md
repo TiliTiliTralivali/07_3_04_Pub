@@ -1,4 +1,4 @@
-# SIG playbook
+# SI playbook
 
 ## Scope of a SIG
 
