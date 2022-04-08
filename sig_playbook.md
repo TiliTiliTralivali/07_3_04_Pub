@@ -30,7 +30,7 @@ Our approach to SIG creation will be conservative—thanks to the ease of starti
 
 ## SIG lifecycle 004
 
-### Research and consultation
+### Research and consultation 005
 
 Proposers of groups should gather evidence for approval, as specified below.
 Some possible avenues to consider are:
