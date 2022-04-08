@@ -28,7 +28,7 @@ therefore:
 Our approach to SIG creation will be conservative—thanks to the ease of starting projects on GitHub, there are many avenues where collaboration can happen without the need for a SIG.
 
 
-## SIG lifecycle
+## SIG lifecycle 004
 
 ### Research and consultation
 
