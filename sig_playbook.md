@@ -14,7 +14,7 @@ models, so expect some variability.
 
 See the complete list of [TensorFlow SIGs](https://github.com/tensorflow/community/tree/master/sigs).
 
-### Non-goals: What a SIG is *not*
+### 002 Non-goals: What a SIG is *not*
 
 SIGs are intended is to facilitate collaboration on shared work. A SIG is
 therefore:
